@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        plant
+//  action 1:    bear
+plant.bear();
+//  action 2:    bloom
+plant.bloom();
+//  action 3:    seed
+plant.seed();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        cat
+//  action 1:    meowing
+cat.meowing();
+//  action 2:    purr
+cat.purr();
+//  action 3:    lapping
+cat.lapping();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        wind
+//  action 1:    blowing
+wind.blowing();
+//  action 2:    gusting
+wind.gusting();
+//  action 3:    whooshing
+wind.whooshing();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        people
+//  action 1:    screaming
+people.screaming();
+//  action 2:    cheering
+people.cheering();
+//  action 3:    crying
+people.crying();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        bird
+//  action 1:    chirping
+bird.chirping();
+//  action 2:    tweeting
+bird.tweeting();
+//  action 3:    fly
+bird.flying();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        energy
+//  action 1:    boost
+energy.boost();
+//  action 2:    propagate
+energy.propagate();
+//  action 3:    pulsate
+energy.pulsate();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        water
+//  action 1:    flow
+water.flow();
+//  action 2:    boil
+water.boil();
+//  action 3:    drip
+water.drip();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        rain
+//  action 1:    fall
+rain.fall();
+//  action 2:    fade
+rain.fade();
+//  action 3:    intensify
+rain.intensify();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        bee  
+//  action 1:    fly
+bee.fly();
+//  action 2:    buzz
+bee.buzz();
+//  action 3:    sting
+bee.sting();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        sun
+//  action 1:    shade
+sun.shade();
+//  action 2:    orbit
+sun.orbit();
+//  action 3:    blaze
+sun.blaze();
 
 
 #endif
