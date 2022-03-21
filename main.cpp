@@ -53,83 +53,83 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 //  1)
 //  Noun:        plant
-//  action 1:    bear
-plant.bear();
-//  action 2:    bloom
+//  action 1:    the plant bears fruits
+plant.bearFruits();
+//  action 2:    the plant blooms
 plant.bloom();
-//  action 3:    seed
-plant.seed();
+//  action 3:    the plant produces seeds
+plant.produceSeeds();
 //  2)
 //  Noun:        cat
-//  action 1:    meowing
-cat.meowing();
-//  action 2:    purr
+//  action 1:    the cat meows
+cat.moew();
+//  action 2:    the cat purrs
 cat.purr();
-//  action 3:    lapping
-cat.lapping();
+//  action 3:    the cat drinks milk
+cat.drinkMilk();
 //  3)
 //  Noun:        wind
-//  action 1:    blowing
-wind.blowing();
-//  action 2:    gusting
-wind.gusting();
-//  action 3:    whooshing
-wind.whooshing();
+//  action 1:    the wind blows
+wind.blow();
+//  action 2:    the wind howls
+wind.howl();
+//  action 3:    the wind dies down
+wind.dieDown();
 //  4)
 //  Noun:        people
-//  action 1:    screaming
-people.screaming();
-//  action 2:    cheering
-people.cheering();
-//  action 3:    crying
-people.crying();
+//  action 1:    people scream
+people.scream();
+//  action 2:    people cheer
+people.cheer();
+//  action 3:    people cry
+people.cry();
 //  5)
 //  Noun:        bird
-//  action 1:    chirping
-bird.chirping();
-//  action 2:    tweeting
-bird.tweeting();
-//  action 3:    fly
-bird.flying();
+//  action 1:    the bird sings
+bird.sing();
+//  action 2:    the bird builds a nest
+bird.buildNest();
+//  action 3:    the bird migrates
+bird.migrate();
 //  6)
 //  Noun:        energy
-//  action 1:    boost
+//  action 1:    the energy boosts
 energy.boost();
-//  action 2:    propagate
+//  action 2:    the energy propagates
 energy.propagate();
-//  action 3:    pulsate
+//  action 3:    the energy pulsates
 energy.pulsate();
 //  7)
 //  Noun:        water
-//  action 1:    flow
+//  action 1:    the water flows
 water.flow();
-//  action 2:    boil
+//  action 2:    the water boils
 water.boil();
-//  action 3:    drip
-water.drip();
+//  action 3:    the water absorbs oxygen
+water.absorbOxygen();
 //  8)
 //  Noun:        rain
-//  action 1:    fall
+//  action 1:    the rain falls
 rain.fall();
-//  action 2:    fade
+//  action 2:    the rain fades
 rain.fade();
-//  action 3:    intensify
+//  action 3:    the rain intensify
 rain.intensify();
 //  9)
-//  Noun:        bee  
-//  action 1:    fly
-bee.fly();
-//  action 2:    buzz
-bee.buzz();
-//  action 3:    sting
-bee.sting();
+//  Noun:        bees  
+//  action 1:    bees fly
+bees.fly();
+//  action 2:    bees buzz
+bees.buzz();
+//  action 3:    bees sting
+bees.sting();
 //  10)
 //  Noun:        sun
-//  action 1:    shade
+//  action 1:    the sun shades
 sun.shade();
-//  action 2:    orbit
-sun.orbit();
-//  action 3:    blaze
+//  action 2:    the sun goes down
+sun.goDown();
+//  action 3:    the sun blazes
 sun.blaze();
 
 
