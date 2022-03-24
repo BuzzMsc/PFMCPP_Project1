@@ -76,13 +76,13 @@ wind.howl();
 //  action 3:    the wind dies down
 wind.dieDown();
 //  4)
-//  Noun:        people
-//  action 1:    people scream
-people.scream();
-//  action 2:    people cheer
-people.cheer();
-//  action 3:    people cry
-people.cry();
+//  Noun:        pickup truck
+//  action 1:    a pickup truck pulls over 
+pickupTruck.pullOver();
+//  action 2:    a pickup truck slows down
+pickupTruck.slowDown();
+//  action 3:    a pickup truck knocks down pedestrian
+pickupTruck.knocksDown();
 //  5)
 //  Noun:        bird
 //  action 1:    the bird sings
