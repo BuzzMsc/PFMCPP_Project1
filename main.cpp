@@ -82,7 +82,7 @@ pickupTruck.pullOver();
 //  action 2:    a pickup truck slows down
 pickupTruck.slowDown();
 //  action 3:    a pickup truck knocks down pedestrian
-pickupTruck.knocksDown();
+pickupTruck.knocksDownPedestrian();
 //  5)
 //  Noun:        bird
 //  action 1:    the bird sings
